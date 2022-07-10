@@ -1,0 +1,10 @@
+Harry Potter,JK Rowling,30,$2
+Start With Why,Simon Sinek,15,$1.5
+Programming,John Smith,20,$1.5
+Robinson Crusoe,Daniel Defoe,35,$2.5
+The Pilgrim’s,John Bunyan,15,$3
+Gulliver’s Travels,Jonathan Swift,17,$2.75
+Tom Jones,Henry Fielding,25,$1.75
+The Scarlet Letter,Nathaniel Hawthorne,12,$2.25
+Little Women,May Alcott,40,$1.75
+We Live Now,Anthony Trollope,20,$3.25
